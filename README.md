@@ -10,16 +10,16 @@
 
 # Exercícios
 ### 1. Chain of Responsibility
-- [x] exercicio 1.1
-- [x] exercicio 1.2
+- [ ] exercicio 1.1
+- [ ] exercicio 1.2
 
 ### 2. Observer
-- [x] exercicio 2.1
-- [x] exercicio 2
+- [ ] exercicio 2.1
+- [ ] exercicio 2
 
 ### 3. Strategy
-- [x] exercicio 3.1
-- [x] exercicio 3.2
+- [ ] exercicio 3.1
+- [ ] exercicio 3.2
 
 ### 4. Template Method
 - [ ] exercicio 4.1
